@@ -592,6 +592,7 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     overflow: hidden;
     transition: all 0.3s ease-in-out;
+    
 }
 .img-left img{
     width: 100%;
